@@ -1,0 +1,365 @@
+Week,Day,DSA Topic,Development Topic,DSA Progress,Dev Progress
+Week 1,Monday,Arrays: Basics + Two Pointer Problems,HTML + CSS Refresher,Not Started,Not Started
+Week 1,Tuesday,Strings: Frequency Map + Basic Problems,"JavaScript Basics (let, const, functions, loops)",Not Started,Not Started
+Week 1,Wednesday,Linked List: Singly LL + Basic Problems,DOM Manipulation + Event Handling,Not Started,Not Started
+Week 1,Thursday,Stack & Queue: Intro + Problems,"React Basics: JSX, Props, State",Not Started,Not Started
+Week 1,Friday,Mixed Practice: Arrays/Strings,React Components + Hooks,Not Started,Not Started
+Week 1,Saturday,DSA Practice: 3-4 Problems (Medium) + Quant Aptitude,Build a Simple React App (ToDo List),Not Started,Not Started
+Week 1,Sunday,Mock Contest + Review + Quant Aptitude,Polish Project + Push to GitHub,Not Started,Not Started
+Week 2,Monday,Arrays: Basics + Two Pointer Problems,HTML + CSS Refresher,Not Started,Not Started
+Week 2,Tuesday,Strings: Frequency Map + Basic Problems,"JavaScript Basics (let, const, functions, loops)",Not Started,Not Started
+Week 2,Wednesday,Linked List: Singly LL + Basic Problems,DOM Manipulation + Event Handling,Not Started,Not Started
+Week 2,Thursday,Stack & Queue: Intro + Problems,"React Basics: JSX, Props, State",Not Started,Not Started
+Week 2,Friday,Mixed Practice: Arrays/Strings,React Components + Hooks,Not Started,Not Started
+Week 2,Saturday,DSA Practice: 3-4 Problems (Medium) + Quant Aptitude,Build a Simple React App (ToDo List),Not Started,Not Started
+Week 2,Sunday,Mock Contest + Review + Quant Aptitude,Polish Project + Push to GitHub,Not Started,Not Started
+Week 3,Monday,Arrays: Basics + Two Pointer Problems,HTML + CSS Refresher,Not Started,Not Started
+Week 3,Tuesday,Strings: Frequency Map + Basic Problems,"JavaScript Basics (let, const, functions, loops)",Not Started,Not Started
+Week 3,Wednesday,Linked List: Singly LL + Basic Problems,DOM Manipulation + Event Handling,Not Started,Not Started
+Week 3,Thursday,Stack & Queue: Intro + Problems,"React Basics: JSX, Props, State",Not Started,Not Started
+Week 3,Friday,Mixed Practice: Arrays/Strings,React Components + Hooks,Not Started,Not Started
+Week 3,Saturday,DSA Practice: 3-4 Problems (Medium) + Quant Aptitude,Build a Simple React App (ToDo List),Not Started,Not Started
+Week 3,Sunday,Mock Contest + Review + Quant Aptitude,Polish Project + Push to GitHub,Not Started,Not Started
+Week 4,Monday,Arrays: Basics + Two Pointer Problems,HTML + CSS Refresher,Not Started,Not Started
+Week 4,Tuesday,Strings: Frequency Map + Basic Problems,"JavaScript Basics (let, const, functions, loops)",Not Started,Not Started
+Week 4,Wednesday,Linked List: Singly LL + Basic Problems,DOM Manipulation + Event Handling,Not Started,Not Started
+Week 4,Thursday,Stack & Queue: Intro + Problems,"React Basics: JSX, Props, State",Not Started,Not Started
+Week 4,Friday,Mixed Practice: Arrays/Strings,React Components + Hooks,Not Started,Not Started
+Week 4,Saturday,DSA Practice: 3-4 Problems (Medium) + Quant Aptitude,Build a Simple React App (ToDo List),Not Started,Not Started
+Week 4,Sunday,Mock Contest + Review + Quant Aptitude,Polish Project + Push to GitHub,Not Started,Not Started
+Week 5,Monday,Arrays: Basics + Two Pointer Problems,HTML + CSS Refresher,Not Started,Not Started
+Week 5,Tuesday,Strings: Frequency Map + Basic Problems,"JavaScript Basics (let, const, functions, loops)",Not Started,Not Started
+Week 5,Wednesday,Linked List: Singly LL + Basic Problems,DOM Manipulation + Event Handling,Not Started,Not Started
+Week 5,Thursday,Stack & Queue: Intro + Problems,"React Basics: JSX, Props, State",Not Started,Not Started
+Week 5,Friday,Mixed Practice: Arrays/Strings,React Components + Hooks,Not Started,Not Started
+Week 5,Saturday,DSA Practice: 3-4 Problems (Medium) + Quant Aptitude,Build a Simple React App (ToDo List),Not Started,Not Started
+Week 5,Sunday,Mock Contest + Review + Quant Aptitude,Polish Project + Push to GitHub,Not Started,Not Started
+Week 6,Monday,Arrays: Basics + Two Pointer Problems,HTML + CSS Refresher,Not Started,Not Started
+Week 6,Tuesday,Strings: Frequency Map + Basic Problems,"JavaScript Basics (let, const, functions, loops)",Not Started,Not Started
+Week 6,Wednesday,Linked List: Singly LL + Basic Problems,DOM Manipulation + Event Handling,Not Started,Not Started
+Week 6,Thursday,Stack & Queue: Intro + Problems,"React Basics: JSX, Props, State",Not Started,Not Started
+Week 6,Friday,Mixed Practice: Arrays/Strings,React Components + Hooks,Not Started,Not Started
+Week 6,Saturday,DSA Practice: 3-4 Problems (Medium) + Quant Aptitude,Build a Simple React App (ToDo List),Not Started,Not Started
+Week 6,Sunday,Mock Contest + Review + Quant Aptitude,Polish Project + Push to GitHub,Not Started,Not Started
+Week 7,Monday,Arrays: Basics + Two Pointer Problems,HTML + CSS Refresher,Not Started,Not Started
+Week 7,Tuesday,Strings: Frequency Map + Basic Problems,"JavaScript Basics (let, const, functions, loops)",Not Started,Not Started
+Week 7,Wednesday,Linked List: Singly LL + Basic Problems,DOM Manipulation + Event Handling,Not Started,Not Started
+Week 7,Thursday,Stack & Queue: Intro + Problems,"React Basics: JSX, Props, State",Not Started,Not Started
+Week 7,Friday,Mixed Practice: Arrays/Strings,React Components + Hooks,Not Started,Not Started
+Week 7,Saturday,DSA Practice: 3-4 Problems (Medium) + Quant Aptitude,Build a Simple React App (ToDo List),Not Started,Not Started
+Week 7,Sunday,Mock Contest + Review + Quant Aptitude,Polish Project + Push to GitHub,Not Started,Not Started
+Week 8,Monday,Arrays: Basics + Two Pointer Problems,HTML + CSS Refresher,Not Started,Not Started
+Week 8,Tuesday,Strings: Frequency Map + Basic Problems,"JavaScript Basics (let, const, functions, loops)",Not Started,Not Started
+Week 8,Wednesday,Linked List: Singly LL + Basic Problems,DOM Manipulation + Event Handling,Not Started,Not Started
+Week 8,Thursday,Stack & Queue: Intro + Problems,"React Basics: JSX, Props, State",Not Started,Not Started
+Week 8,Friday,Mixed Practice: Arrays/Strings,React Components + Hooks,Not Started,Not Started
+Week 8,Saturday,DSA Practice: 3-4 Problems (Medium) + Quant Aptitude,Build a Simple React App (ToDo List),Not Started,Not Started
+Week 8,Sunday,Mock Contest + Review + Quant Aptitude,Polish Project + Push to GitHub,Not Started,Not Started
+Week 9,Monday,Recursion + Backtracking,"Node.js Basics (HTTP, Routing)",Not Started,Not Started
+Week 9,Tuesday,Binary Trees + BST,Express.js (Routing + Middlewares),Not Started,Not Started
+Week 9,Wednesday,Sorting Algorithms (Merge/Quick),MongoDB Basics (CRUD + Mongoose),Not Started,Not Started
+Week 9,Thursday,Heaps + Priority Queue,Auth: JWT + Sessions,Not Started,Not Started
+Week 9,Friday,Mixed Practice (Leetcode),Build Basic APIs + Connect Frontend,Not Started,Not Started
+Week 9,Saturday,Solve 4-5 Medium Problems + Quant Aptitude,"Full-stack Mini Project (e.g., Notes App)",Not Started,Not Started
+Week 9,Sunday,Mock Interview (DSA) + Quant Aptitude,Project Debugging + Deployment Practice,Not Started,Not Started
+Week 10,Monday,Recursion + Backtracking,"Node.js Basics (HTTP, Routing)",Not Started,Not Started
+Week 10,Tuesday,Binary Trees + BST,Express.js (Routing + Middlewares),Not Started,Not Started
+Week 10,Wednesday,Sorting Algorithms (Merge/Quick),MongoDB Basics (CRUD + Mongoose),Not Started,Not Started
+Week 10,Thursday,Heaps + Priority Queue,Auth: JWT + Sessions,Not Started,Not Started
+Week 10,Friday,Mixed Practice (Leetcode),Build Basic APIs + Connect Frontend,Not Started,Not Started
+Week 10,Saturday,Solve 4-5 Medium Problems + Quant Aptitude,"Full-stack Mini Project (e.g., Notes App)",Not Started,Not Started
+Week 10,Sunday,Mock Interview (DSA) + Quant Aptitude,Project Debugging + Deployment Practice,Not Started,Not Started
+Week 11,Monday,Recursion + Backtracking,"Node.js Basics (HTTP, Routing)",Not Started,Not Started
+Week 11,Tuesday,Binary Trees + BST,Express.js (Routing + Middlewares),Not Started,Not Started
+Week 11,Wednesday,Sorting Algorithms (Merge/Quick),MongoDB Basics (CRUD + Mongoose),Not Started,Not Started
+Week 11,Thursday,Heaps + Priority Queue,Auth: JWT + Sessions,Not Started,Not Started
+Week 11,Friday,Mixed Practice (Leetcode),Build Basic APIs + Connect Frontend,Not Started,Not Started
+Week 11,Saturday,Solve 4-5 Medium Problems + Quant Aptitude,"Full-stack Mini Project (e.g., Notes App)",Not Started,Not Started
+Week 11,Sunday,Mock Interview (DSA) + Quant Aptitude,Project Debugging + Deployment Practice,Not Started,Not Started
+Week 12,Monday,Recursion + Backtracking,"Node.js Basics (HTTP, Routing)",Not Started,Not Started
+Week 12,Tuesday,Binary Trees + BST,Express.js (Routing + Middlewares),Not Started,Not Started
+Week 12,Wednesday,Sorting Algorithms (Merge/Quick),MongoDB Basics (CRUD + Mongoose),Not Started,Not Started
+Week 12,Thursday,Heaps + Priority Queue,Auth: JWT + Sessions,Not Started,Not Started
+Week 12,Friday,Mixed Practice (Leetcode),Build Basic APIs + Connect Frontend,Not Started,Not Started
+Week 12,Saturday,Solve 4-5 Medium Problems + Quant Aptitude,"Full-stack Mini Project (e.g., Notes App)",Not Started,Not Started
+Week 12,Sunday,Mock Interview (DSA) + Quant Aptitude,Project Debugging + Deployment Practice,Not Started,Not Started
+Week 13,Monday,Recursion + Backtracking,"Node.js Basics (HTTP, Routing)",Not Started,Not Started
+Week 13,Tuesday,Binary Trees + BST,Express.js (Routing + Middlewares),Not Started,Not Started
+Week 13,Wednesday,Sorting Algorithms (Merge/Quick),MongoDB Basics (CRUD + Mongoose),Not Started,Not Started
+Week 13,Thursday,Heaps + Priority Queue,Auth: JWT + Sessions,Not Started,Not Started
+Week 13,Friday,Mixed Practice (Leetcode),Build Basic APIs + Connect Frontend,Not Started,Not Started
+Week 13,Saturday,Solve 4-5 Medium Problems + Quant Aptitude,"Full-stack Mini Project (e.g., Notes App)",Not Started,Not Started
+Week 13,Sunday,Mock Interview (DSA) + Quant Aptitude,Project Debugging + Deployment Practice,Not Started,Not Started
+Week 14,Monday,Recursion + Backtracking,"Node.js Basics (HTTP, Routing)",Not Started,Not Started
+Week 14,Tuesday,Binary Trees + BST,Express.js (Routing + Middlewares),Not Started,Not Started
+Week 14,Wednesday,Sorting Algorithms (Merge/Quick),MongoDB Basics (CRUD + Mongoose),Not Started,Not Started
+Week 14,Thursday,Heaps + Priority Queue,Auth: JWT + Sessions,Not Started,Not Started
+Week 14,Friday,Mixed Practice (Leetcode),Build Basic APIs + Connect Frontend,Not Started,Not Started
+Week 14,Saturday,Solve 4-5 Medium Problems + Quant Aptitude,"Full-stack Mini Project (e.g., Notes App)",Not Started,Not Started
+Week 14,Sunday,Mock Interview (DSA) + Quant Aptitude,Project Debugging + Deployment Practice,Not Started,Not Started
+Week 15,Monday,Recursion + Backtracking,"Node.js Basics (HTTP, Routing)",Not Started,Not Started
+Week 15,Tuesday,Binary Trees + BST,Express.js (Routing + Middlewares),Not Started,Not Started
+Week 15,Wednesday,Sorting Algorithms (Merge/Quick),MongoDB Basics (CRUD + Mongoose),Not Started,Not Started
+Week 15,Thursday,Heaps + Priority Queue,Auth: JWT + Sessions,Not Started,Not Started
+Week 15,Friday,Mixed Practice (Leetcode),Build Basic APIs + Connect Frontend,Not Started,Not Started
+Week 15,Saturday,Solve 4-5 Medium Problems + Quant Aptitude,"Full-stack Mini Project (e.g., Notes App)",Not Started,Not Started
+Week 15,Sunday,Mock Interview (DSA) + Quant Aptitude,Project Debugging + Deployment Practice,Not Started,Not Started
+Week 16,Monday,Recursion + Backtracking,"Node.js Basics (HTTP, Routing)",Not Started,Not Started
+Week 16,Tuesday,Binary Trees + BST,Express.js (Routing + Middlewares),Not Started,Not Started
+Week 16,Wednesday,Sorting Algorithms (Merge/Quick),MongoDB Basics (CRUD + Mongoose),Not Started,Not Started
+Week 16,Thursday,Heaps + Priority Queue,Auth: JWT + Sessions,Not Started,Not Started
+Week 16,Friday,Mixed Practice (Leetcode),Build Basic APIs + Connect Frontend,Not Started,Not Started
+Week 16,Saturday,Solve 4-5 Medium Problems + Quant Aptitude,"Full-stack Mini Project (e.g., Notes App)",Not Started,Not Started
+Week 16,Sunday,Mock Interview (DSA) + Quant Aptitude,Project Debugging + Deployment Practice,Not Started,Not Started
+Week 17,Monday,Graphs: BFS/DFS,Add Features to Full-stack Project,Not Started,Not Started
+Week 17,Tuesday,"Dynamic Programming (Knapsack, LIS)",Build Auth + Dashboard System,Not Started,Not Started
+Week 17,Wednesday,Tries / Greedy Problems,Connect Frontend & DB + Error Handling,Not Started,Not Started
+Week 17,Thursday,DP Practice Day,"Clean, Modular Code + Reuse Components",Not Started,Not Started
+Week 17,Friday,Mixed Practice (DSA),Final Touches + Responsiveness,Not Started,Not Started
+Week 17,Saturday,Solve 5-6 Medium/Hard Problems + Quant Aptitude,Deploy Project (Render/Vercel),Not Started,Not Started
+Week 17,Sunday,Mock Interview or Leetcode Contest + Quant Aptitude,Push to GitHub + Update Resume,Not Started,Not Started
+Week 18,Monday,Graphs: BFS/DFS,Add Features to Full-stack Project,Not Started,Not Started
+Week 18,Tuesday,"Dynamic Programming (Knapsack, LIS)",Build Auth + Dashboard System,Not Started,Not Started
+Week 18,Wednesday,Tries / Greedy Problems,Connect Frontend & DB + Error Handling,Not Started,Not Started
+Week 18,Thursday,DP Practice Day,"Clean, Modular Code + Reuse Components",Not Started,Not Started
+Week 18,Friday,Mixed Practice (DSA),Final Touches + Responsiveness,Not Started,Not Started
+Week 18,Saturday,Solve 5-6 Medium/Hard Problems + Quant Aptitude,Deploy Project (Render/Vercel),Not Started,Not Started
+Week 18,Sunday,Mock Interview or Leetcode Contest + Quant Aptitude,Push to GitHub + Update Resume,Not Started,Not Started
+Week 19,Monday,Graphs: BFS/DFS,Add Features to Full-stack Project,Not Started,Not Started
+Week 19,Tuesday,"Dynamic Programming (Knapsack, LIS)",Build Auth + Dashboard System,Not Started,Not Started
+Week 19,Wednesday,Tries / Greedy Problems,Connect Frontend & DB + Error Handling,Not Started,Not Started
+Week 19,Thursday,DP Practice Day,"Clean, Modular Code + Reuse Components",Not Started,Not Started
+Week 19,Friday,Mixed Practice (DSA),Final Touches + Responsiveness,Not Started,Not Started
+Week 19,Saturday,Solve 5-6 Medium/Hard Problems + Quant Aptitude,Deploy Project (Render/Vercel),Not Started,Not Started
+Week 19,Sunday,Mock Interview or Leetcode Contest + Quant Aptitude,Push to GitHub + Update Resume,Not Started,Not Started
+Week 20,Monday,Graphs: BFS/DFS,Add Features to Full-stack Project,Not Started,Not Started
+Week 20,Tuesday,"Dynamic Programming (Knapsack, LIS)",Build Auth + Dashboard System,Not Started,Not Started
+Week 20,Wednesday,Tries / Greedy Problems,Connect Frontend & DB + Error Handling,Not Started,Not Started
+Week 20,Thursday,DP Practice Day,"Clean, Modular Code + Reuse Components",Not Started,Not Started
+Week 20,Friday,Mixed Practice (DSA),Final Touches + Responsiveness,Not Started,Not Started
+Week 20,Saturday,Solve 5-6 Medium/Hard Problems + Quant Aptitude,Deploy Project (Render/Vercel),Not Started,Not Started
+Week 20,Sunday,Mock Interview or Leetcode Contest + Quant Aptitude,Push to GitHub + Update Resume,Not Started,Not Started
+Week 21,Monday,Graphs: BFS/DFS,Add Features to Full-stack Project,Not Started,Not Started
+Week 21,Tuesday,"Dynamic Programming (Knapsack, LIS)",Build Auth + Dashboard System,Not Started,Not Started
+Week 21,Wednesday,Tries / Greedy Problems,Connect Frontend & DB + Error Handling,Not Started,Not Started
+Week 21,Thursday,DP Practice Day,"Clean, Modular Code + Reuse Components",Not Started,Not Started
+Week 21,Friday,Mixed Practice (DSA),Final Touches + Responsiveness,Not Started,Not Started
+Week 21,Saturday,Solve 5-6 Medium/Hard Problems + Quant Aptitude,Deploy Project (Render/Vercel),Not Started,Not Started
+Week 21,Sunday,Mock Interview or Leetcode Contest + Quant Aptitude,Push to GitHub + Update Resume,Not Started,Not Started
+Week 22,Monday,Graphs: BFS/DFS,Add Features to Full-stack Project,Not Started,Not Started
+Week 22,Tuesday,"Dynamic Programming (Knapsack, LIS)",Build Auth + Dashboard System,Not Started,Not Started
+Week 22,Wednesday,Tries / Greedy Problems,Connect Frontend & DB + Error Handling,Not Started,Not Started
+Week 22,Thursday,DP Practice Day,"Clean, Modular Code + Reuse Components",Not Started,Not Started
+Week 22,Friday,Mixed Practice (DSA),Final Touches + Responsiveness,Not Started,Not Started
+Week 22,Saturday,Solve 5-6 Medium/Hard Problems + Quant Aptitude,Deploy Project (Render/Vercel),Not Started,Not Started
+Week 22,Sunday,Mock Interview or Leetcode Contest + Quant Aptitude,Push to GitHub + Update Resume,Not Started,Not Started
+Week 23,Monday,Graphs: BFS/DFS,Add Features to Full-stack Project,Not Started,Not Started
+Week 23,Tuesday,"Dynamic Programming (Knapsack, LIS)",Build Auth + Dashboard System,Not Started,Not Started
+Week 23,Wednesday,Tries / Greedy Problems,Connect Frontend & DB + Error Handling,Not Started,Not Started
+Week 23,Thursday,DP Practice Day,"Clean, Modular Code + Reuse Components",Not Started,Not Started
+Week 23,Friday,Mixed Practice (DSA),Final Touches + Responsiveness,Not Started,Not Started
+Week 23,Saturday,Solve 5-6 Medium/Hard Problems + Quant Aptitude,Deploy Project (Render/Vercel),Not Started,Not Started
+Week 23,Sunday,Mock Interview or Leetcode Contest + Quant Aptitude,Push to GitHub + Update Resume,Not Started,Not Started
+Week 24,Monday,Graphs: BFS/DFS,Add Features to Full-stack Project,Not Started,Not Started
+Week 24,Tuesday,"Dynamic Programming (Knapsack, LIS)",Build Auth + Dashboard System,Not Started,Not Started
+Week 24,Wednesday,Tries / Greedy Problems,Connect Frontend & DB + Error Handling,Not Started,Not Started
+Week 24,Thursday,DP Practice Day,"Clean, Modular Code + Reuse Components",Not Started,Not Started
+Week 24,Friday,Mixed Practice (DSA),Final Touches + Responsiveness,Not Started,Not Started
+Week 24,Saturday,Solve 5-6 Medium/Hard Problems + Quant Aptitude,Deploy Project (Render/Vercel),Not Started,Not Started
+Week 24,Sunday,Mock Interview or Leetcode Contest + Quant Aptitude,Push to GitHub + Update Resume,Not Started,Not Started
+Week 25,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 25,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 25,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 25,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 25,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 25,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 25,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 26,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 26,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 26,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 26,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 26,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 26,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 26,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 27,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 27,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 27,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 27,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 27,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 27,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 27,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 28,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 28,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 28,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 28,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 28,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 28,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 28,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 29,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 29,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 29,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 29,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 29,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 29,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 29,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 30,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 30,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 30,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 30,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 30,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 30,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 30,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 31,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 31,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 31,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 31,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 31,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 31,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 31,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 32,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 32,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 32,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 32,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 32,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 32,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 32,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 33,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 33,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 33,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 33,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 33,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 33,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 33,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 34,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 34,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 34,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 34,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 34,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 34,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 34,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 35,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 35,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 35,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 35,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 35,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 35,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 35,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 36,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 36,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 36,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 36,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 36,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 36,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 36,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 37,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 37,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 37,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 37,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 37,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 37,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 37,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 38,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 38,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 38,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 38,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 38,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 38,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 38,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 39,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 39,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 39,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 39,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 39,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 39,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 39,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 40,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 40,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 40,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 40,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 40,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 40,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 40,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 41,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 41,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 41,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 41,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 41,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 41,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 41,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 42,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 42,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 42,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 42,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 42,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 42,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 42,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 43,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 43,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 43,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 43,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 43,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 43,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 43,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 44,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 44,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 44,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 44,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 44,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 44,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 44,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 45,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 45,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 45,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 45,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 45,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 45,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 45,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 46,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 46,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 46,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 46,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 46,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 46,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 46,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 47,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 47,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 47,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 47,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 47,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 47,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 47,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 48,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 48,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 48,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 48,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 48,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 48,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 48,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 49,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 49,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 49,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 49,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 49,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 49,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 49,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 50,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 50,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 50,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 50,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 50,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 50,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 50,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 51,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 51,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 51,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 51,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 51,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 51,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 51,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
+Week 52,Monday,"Python for DS: Syntax, Loops, Functions",Intro to ML: Supervised vs Unsupervised,Not Started,Not Started
+Week 52,Tuesday,Numpy + Pandas Basics,Linear Regression + Eval Metrics,Not Started,Not Started
+Week 52,Wednesday,Data Cleaning + Analysis,Logistic Regression + Classification,Not Started,Not Started
+Week 52,Thursday,Matplotlib + Seaborn Visualizations,"SVM, KNN, Decision Trees",Not Started,Not Started
+Week 52,Friday,Mini Project (EDA),Model Selection + Cross Validation,Not Started,Not Started
+Week 52,Saturday,Kaggle Dataset Practice + Quant Aptitude,ML Project Building + Quant Aptitude,Not Started,Not Started
+Week 52,Sunday,AI/ML Revision + Resume Updates,Polish & Push to GitHub / Kaggle,Not Started,Not Started
